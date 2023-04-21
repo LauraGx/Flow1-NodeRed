@@ -50,5 +50,5 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 # Créditos 
 
-Desarrollado por Cecilia Xolio
+Desarrollado por Diana Laura Aragon 
 - [GitHub](https://github.com/LauraGx)
