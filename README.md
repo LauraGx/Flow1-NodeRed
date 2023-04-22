@@ -46,7 +46,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow. 
 
-![](https://github.com/Cecilia-X-M/Flow-1-NodeRed/blob/main/flow1.png)
+![](https://github.com/LauraGx/Flow1-NodeRed/blob/main/flow1.png)
 
 # Créditos 
 
